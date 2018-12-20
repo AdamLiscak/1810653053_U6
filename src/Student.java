@@ -34,4 +34,9 @@ public class Student
     public void setJahrgang(int jahrgang) {
         this.jahrgang = jahrgang;
     }
+
+    @Override
+    public String toString() {
+        return name+" "+matrikelnr+" "+jahrgang;
+    }
 }

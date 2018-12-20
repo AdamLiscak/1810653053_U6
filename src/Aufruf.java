@@ -13,7 +13,7 @@ public class Aufruf
         List<Student> ak =Arrays.asList(a,b,c);
         for (Student m: ak)
         {
-            System.out.println(m);
+            System.out.println( m.toString());
         }
 
 

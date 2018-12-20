@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30a5f49a-1792-4b5d-b121-798b610d6d46" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aufruf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufruf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufruf.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,8 +76,11 @@
       <file leaf-file-name="Aufruf.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Aufruf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            <state relative-caret-position="255">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.A4">
+  <component name="RunManager" selected="Application.Aufruf">
     <configuration name="A1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A1" />
       <module name="1810653053_U6" />
@@ -180,6 +181,11 @@
     </configuration>
     <configuration name="A4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A4" />
+      <module name="1810653053_U6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Aufruf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufruf" />
       <module name="1810653053_U6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -228,9 +234,11 @@
       <item itemvalue="Application.A1" />
       <item itemvalue="Application.A3" />
       <item itemvalue="Application.A4" />
+      <item itemvalue="Application.Aufruf" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aufruf" />
         <item itemvalue="Application.A4" />
         <item itemvalue="Application.A3" />
         <item itemvalue="Application.A1" />
@@ -247,12 +255,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545298831135</updated>
-      <workItem from="1545298835295" duration="3495000" />
+      <workItem from="1545298835295" duration="3735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3495000" />
+    <option name="totallyTimeSpent" value="3735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -360,8 +368,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Aufruf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="255">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
